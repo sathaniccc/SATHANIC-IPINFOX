@@ -26,7 +26,7 @@
 
 ```bash
 # Step 1: Clone the repository
-git clonehttps://github.com/sathaniccc/SATHANIC-IPINFOX.git
+git clone https://github.com/sathaniccc/SATHANIC-IPINFOX.git
 cd ipinfox
 
 # Step 2: Install dependencies
