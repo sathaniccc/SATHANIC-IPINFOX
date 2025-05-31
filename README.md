@@ -1,4 +1,4 @@
-<h1 align="center">🌐 IPInfoX</h1>
+<h1 align="center">🌐 Sathanic IPInfoX</h1>
 
 <p align="center">
   A lightweight Python tool to fetch IP address geolocation, ISP, and timezone info using the <a href="https://ipinfo.io">ipinfo.io</a> API.
