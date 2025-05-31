@@ -27,10 +27,13 @@
 ```bash
 # Step 1: Clone the repository
 git clone https://github.com/sathaniccc/SATHANIC-IPINFOX.git
-cd ipinfox
+
+cd SATHANIC-IPINFOX
+
+ls
 
 # Step 2: Install dependencies
-pip install requests
+pip install -r requirements.txt
 
 # Step 3: Run the tool
 python ipinfox.py
